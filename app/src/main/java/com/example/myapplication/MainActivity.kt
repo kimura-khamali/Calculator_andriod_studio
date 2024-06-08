@@ -50,8 +50,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
     fun calculate(num1:Double,num2:Double,sign:String){
-//        val num1 = etnum1.text.toString().toInt()
-//        val num2 = etnum2.text.toString().toDouble()
+
         var result = 0.0
 
         when(sign){
